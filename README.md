@@ -1,2 +1,0 @@
-# HienLTH-WebAPI
-Practice WebAPI
