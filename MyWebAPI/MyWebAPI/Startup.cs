@@ -8,7 +8,9 @@ using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
 using Microsoft.OpenApi.Models;
+using MyWebAPI.Controllers;
 using MyWebAPI.Data;
+using MyWebAPI.Services;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -35,6 +37,8 @@ namespace MyWebAPI
             {
                 option.UseSqlServer(Configuration.GetConnectionString("MyDB"));
             });
+
+            services.AddScoped<ICategoryRepository, CategoryRepository>();
 
             services.AddSwaggerGen(c =>
             {
