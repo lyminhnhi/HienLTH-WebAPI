@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\NhiLM\\Desktop\\Pratice\\Practice_Backend\\HIEN_LTH_Course\\MyWebAPI\\MyWebAPI\\MyWebAPI.csproj": {}
+    "C:\\Users\\NhiLM\\Desktop\\Pratice\\Practice_Backend\\NhiLM-WebAPI\\MyWebAPI\\MyWebAPI\\MyWebAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\NhiLM\\Desktop\\Pratice\\Practice_Backend\\HIEN_LTH_Course\\MyWebAPI\\MyWebAPI\\MyWebAPI.csproj": {
+    "C:\\Users\\NhiLM\\Desktop\\Pratice\\Practice_Backend\\NhiLM-WebAPI\\MyWebAPI\\MyWebAPI\\MyWebAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\NhiLM\\Desktop\\Pratice\\Practice_Backend\\HIEN_LTH_Course\\MyWebAPI\\MyWebAPI\\MyWebAPI.csproj",
+        "projectUniqueName": "C:\\Users\\NhiLM\\Desktop\\Pratice\\Practice_Backend\\NhiLM-WebAPI\\MyWebAPI\\MyWebAPI\\MyWebAPI.csproj",
         "projectName": "MyWebAPI",
-        "projectPath": "C:\\Users\\NhiLM\\Desktop\\Pratice\\Practice_Backend\\HIEN_LTH_Course\\MyWebAPI\\MyWebAPI\\MyWebAPI.csproj",
+        "projectPath": "C:\\Users\\NhiLM\\Desktop\\Pratice\\Practice_Backend\\NhiLM-WebAPI\\MyWebAPI\\MyWebAPI\\MyWebAPI.csproj",
         "packagesPath": "C:\\Users\\NhiLM\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\NhiLM\\Desktop\\Pratice\\Practice_Backend\\HIEN_LTH_Course\\MyWebAPI\\MyWebAPI\\obj\\",
+        "outputPath": "C:\\Users\\NhiLM\\Desktop\\Pratice\\Practice_Backend\\NhiLM-WebAPI\\MyWebAPI\\MyWebAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\NhiLM\\AppData\\Roaming\\NuGet\\NuGet.Config",

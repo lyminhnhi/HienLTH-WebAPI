@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6L8tRpIstlB8SjfESQHk75nyLWG/6zvXDETi+4tIjhzWSYrNMn3LoZz88P8FZiaT/0+2LAW8nzebV7fxQfFtug==",
+  "dgSpecHash": "7oLcVsvEfRUZZWYCnRE9CWI2IKltVWO+rfm1sNUf67VWTJUblVC+ps1G5JJtYF653VPKYcHLazZ1KQ9zbwnyqg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\NhiLM\\Desktop\\Pratice\\Practice_Backend\\HIEN_LTH_Course\\MyWebAPI\\MyWebAPI\\MyWebAPI.csproj",
+  "projectFilePath": "C:\\Users\\NhiLM\\Desktop\\Pratice\\Practice_Backend\\NhiLM-WebAPI\\MyWebAPI\\MyWebAPI\\MyWebAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\NhiLM\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\NhiLM\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

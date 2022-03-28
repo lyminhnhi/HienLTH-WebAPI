@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 
 namespace MyWebAPI.Models
 {
-    public class CategoryVMDto
+    public class CategoryDto
     {
         public int CategoryCode { get; set; }
         public string CategoryName { get; set; }

@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
 
@@ -19,5 +20,12 @@ namespace MyWebAPI.Data
         public int? CategoryCode { get; set; }
         [ForeignKey("CategoryCode")]
         public CategoryEntity Category { get; set; }
+
+        public ICollection<ProductOrderEntity> ProductOrders { get; set; }
+
+        public ProductEntity()
+        {
+            ProductOrders = new List<ProductOrderEntity>();
+        }
     }
 }
